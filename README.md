@@ -1,6 +1,7 @@
 
 ## Train the custom data
-- First train custom data for object detection(I used YOLOV8) and for tracking (I used DeepSort) and download the trained weights in my case it is best.pt.
+- ## Train the custom data
+- First train custom data for object detection(I used YOLOV8) and for tracking (I used DeepSort) and download the trained weights in my case it is best.pt.please check notebook where jupyter notebook kept it has accuracy matrices.
   ## Features
 - Feature1: Object detection  tracking and counting task.
 - Feature2: Multiple detection models. `yolov8n`, `yolov8s`, `yolov8m`, `yolov8l`, `yolov8x`,`best.pt`
